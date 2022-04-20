@@ -69,6 +69,7 @@ let citations = [
         "Un pessimiste voit la difficulté dans chaque opportunité. Un optimiste voit une opportunité dans chaque difficulté.",
         "Winston Churchill",
     ],
+    ["C'était la meilleure fonctionnalité du site ! Il a corrigé de nombreux problèmes de grammaire que même mon tuteur d'écriture avait négligés.","Amine.A"]
 ];
 
 function generateNombreEntier(max) {
